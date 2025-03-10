@@ -80,16 +80,3 @@ console.log(namesArray)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
